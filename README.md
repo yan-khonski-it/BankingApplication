@@ -62,3 +62,7 @@ To use this library, add NuGet dependency into section `<ItemGroup>`
 [Accounts.csproj](https://github.com/yan-khonski-it/BankingApplication/blob/master/Accounts/Accounts.csproj)
 
 ## NuGet
+https://learn.microsoft.com/en-us/nuget/what-is-nuget
+
+## Unit tests
+https://stackoverflow.com/questions/261139/nunit-vs-mbunit-vs-mstest-vs-xunit-net
