@@ -11,7 +11,7 @@ https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # C# basics
 ## Convert an object to JSON
-Example (Accounts/Program.cs)[https://github.com/yan-khonski-it/BankingApplication/blob/master/Accounts/Program.cs]
+Example [Accounts/Program.cs](https://github.com/yan-khonski-it/BankingApplication/blob/master/Accounts/Program.cs)
 
 1) Approach using class `System.Text.Json.JsonSerializer`.
 
